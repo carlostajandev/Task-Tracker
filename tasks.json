@@ -1,0 +1,16 @@
+[
+  {
+    "id": "04d38de1-e859-480b-a1a8-44f032cdb7f3",
+    "description": "Aprender TypeScript",
+    "status": "todo",
+    "createdAt": "2025-03-04T04:24:59.131Z",
+    "updatedAt": "2025-03-04T04:24:59.132Z"
+  },
+  {
+    "id": "826a3456-06a5-4dd5-bfb2-a6f12c7dbe7b",
+    "description": "Aprender TypeScript",
+    "status": "todo",
+    "createdAt": "2025-03-04T04:27:07.641Z",
+    "updatedAt": "2025-03-04T04:27:07.641Z"
+  }
+]
